@@ -126,3 +126,5 @@ providing links to the website about cursors.
 
 I am not super good at programming, but with help from other in this class discord and from friend's
 encouragement, I was able to continue pushing through this project despite having to start all over. :)
+
+The github deployment of this project was assisted by [Prof. Adam Smith at UC Santa Cruz](https://engineering.ucsc.edu/people/amsmith) who also provided the starter code for this assignment.
