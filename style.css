@@ -83,7 +83,7 @@ body {
 /*actual image of wave, movement, location, color*/
 
 .wave {
-  background: url("https://cdn.glitch.me/3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fwave%20image.svg?v=1638480206098");
+  background: url("wave%20image.svg");
   position: absolute;
   width: 200%;
   height: 100%;
