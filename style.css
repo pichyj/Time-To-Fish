@@ -1,0 +1,112 @@
+  top: 487 :pot  div {
+  margin: 10px;
+}
+
+a {
+  
+/*overall background*/
+  
+  color: #a67b5b;
+  border-radius: 3ex;
+  background: #fbec5d;
+  text-decoration: none;
+
+}
+#storyContainer {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: #f5deb3;
+  color: brown;
+  text-align: center;
+}
+
+#titleContainer {
+  font-family: Fink Heavy;
+  font-size: x-large;
+  text-align: center;
+}
+
+#captionContainer {
+  font-family: Fink Heavy;
+  color: #836953;
+  text-align: center;
+  border-radius: 3ex;
+  background: #faf0e6;
+  transition: 0.3s;
+  margin-top: 8ex;
+  transition-duration: .6s;
+  animation: expand 0.4s ease-out;
+  
+}
+
+#imageContainer img {
+  width: 100%;
+  border-radius: 10px;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#choicesContainer {
+  text-align: center
+}
+
+#toolsContainer {
+  visibility: hidden;
+  opacity: 20%;
+}
+
+/*overall ocean, length, width, height*/
+
+ .ocean {
+  height: 90px; 
+  width: 110%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow-x: hidden;
+}
+
+/*actual image of wave, movement, location, color*/
+
+.wave {
+  background: url("https://cdn.glitch.me/3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fwave%20image.svg?v=1638480206098");
+  position: absolute;
+  width: 200%;
+  height: 100%;
+  animation: wave 10s -1s linear infinite;
+  opacity: 0.8;
+  /*ensure waves are pushed back*/
+  z-index:-1;
+
+}
+
+/*second wave type, movement differ from previous*/
+
+.wave:nth-of-type(3) {
+  bottom: 0;
+  animation: wave 20s -7s linear infinite;
+  opacity: 0.5;
+}
+
+/*overall movement*/
+
+@keyframes wave {
+  0% {transform: translateX(0);}
+  50% {transform: translateX(-25%);}
+  100% {transform: translateX(-50%);}
+} 
+ 

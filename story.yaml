@@ -1,0 +1,259 @@
+Title: Time to Fish!
+
+Start: Airport
+
+Scenes:
+  
+  Airport:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5089.JPG?v=1635926266944
+    
+    Caption: >
+      Hmmm...I maybe check out that video at the bottom. I can see what I'm getting myself into.
+      <br/><br/>
+      Traveling is fun.
+      <br/><br/>
+      So I decided to close my eyes and point to a place on the map to choose my destination!
+      <br/><br/>
+      I really enjoy animals, so I might as well catch some fishes. Ooo how exciting!
+      
+    Choices:
+    
+      - Text: Time to fly!
+        Target: Exit
+  
+  Exit: 
+        
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5966.JPG?v=1635973341020
+    
+    Caption: > 
+        I'm a bit thristy. It would be wise to stay hydrated but that would be a waste of time. Should I just
+        go to the shop and buy a new fishing rod? That would be cool too. 
+        <br/><br/>
+        I'm so indecisive. 
+      
+    Choices: 
+      - Text: I will drink some boba. Who says you cannot have boba in the morning. 
+        Target: Boba
+      - Text: I think I will buy a stronger fishing rod. 
+        Target: Shop
+        
+  Boba:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5092.JPG?v=1635925871422
+    
+    Caption: >
+      Wow the boba was really good. Now time to fish! I wonder what kind of fishing rod I should get.
+      
+    Choices: 
+      - Text: There are probably so many fishing rod choices, I wonder which one I should get. 
+        Target: Shop
+       
+  Shop:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5091.JPG?v=1635926093145
+    
+    Caption: >
+      I think I will buy the black one. It might attract more fish so I can have a bunch!
+      <br/><br/>
+      HOLD ON! 2,500 bells!?! I need to save up. Is that even worth it? 
+      
+    Choices:
+      - Text: I should make my own.
+        Target: DIY 
+      - Text: I will just buy it, it is worth the money.
+        Target: Ocean
+      
+  DIY:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5965.JPG?v=1635973342927
+    
+    Caption: >
+      To make a fishing rod all I need are five sticks. So easy. This was a better choice than 
+      paying 2,500. Now that I have everything, it is time to fish!
+    
+    Choices:
+      - Text: I bet I can catch a shark or some other huge fish!
+        Target: Ocean
+      - Text: I wonder if the river has some awesome fish to catch!
+        Target: River
+       
+  Ocean:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5088.JPG?v=1635925906210
+    
+    Caption: > 
+      Okay let's do this. Woah, that looks like a big fish. Please be a special one.
+      <br/><br/>
+      Maybe I should go for the smaller fish, it must be easier to carry. 
+      
+    Choices:
+      - Text: Here I go for the big fish! Big money, Big Money!!
+        Target: Big Fish 
+      - Text: This small fish better be good!
+        Target: Small Fish 
+       
+  
+  River: 
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.09.46%20AM.png?v=1635927012212
+    
+    Caption: > 
+      I've seen every episode of River Monsters. I hope to catch a wild monster! Unless I 
+      catch something that I already caught. That's fine I guess...but a river monster 
+      would be awesome!
+      
+    Choices: 
+      - Text: Fish for the big river monster. 
+        Target: River Monster
+      - Text: Try and go for a fish I already caught. 
+        Target: Old Fish
+       
+  River Monster:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5082.JPG?v=1635926064546
+    
+    Caption: >
+      Wow I did it! I caught a huge one. I've never caught one this big before. This is amazing!
+      <br/><br/>
+      I have to take a pic and post it on social media. 
+      <br/><br/>
+      Maybe I should try and do it again and see if the local museum wants to take a look!
+      
+    Choices: 
+      - Text: Post on Social Media.
+        Target: Waterfall
+      - Text: I should go to the museum.
+        Target: Museum
+       
+  Old Fish: 
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5081.JPG?v=1635926126115
+    
+    Caption: >
+      I mean I guess. 
+      
+    Choices:
+     - Text: I guess I can try the River Monster.
+       Target: River Monster
+     - Text: I give up. I will go to the Ocean.
+       Target: Ocean
+       
+  Big Fish: 
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5087.JPG?v=1635925912840
+      
+    Caption: >
+      Alright let's do this. Please be a big fish and not a sea bass...I hate sea bass.
+      
+    Choices:
+      - Text: Ugh, a sea bass. I hate sea bass. 
+        Target: River
+      
+  Small Fish:
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5085.JPG?v=1635925931556
+    
+    Caption: >
+      Please please please be a new fish!
+    
+    Choices: 
+      - Text: Hmm I caught this before. I should try the river.  
+        Target: River
+    
+  Waterfall:
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.12.16%20AM.png?v=1635927183575
+      
+    Caption: >
+      Wow. What a gorgeous place to take a pic. This is for sure going to go viral. 
+      Wow! There are more fish in the water here too!
+        
+    Choices: 
+      - Text: Take a picture!
+        Target: Tree
+      - Text: Time to stretch. It has been tough reeling in fish.
+        Target: Relax
+       
+  Museum:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.11.59%20AM.png?v=1635927181049
+    
+    Caption: > 
+      The museum loooks great from the outside and the entrance looks great too. Maybe I should 
+      go check out the aquarium and see how it looks like. Maybe they have every single fish that has 
+      existed on this Earth!
+      <br/><br/>
+      I don't have all the time in the world so I'll just talk to this guy at the front. 
+      
+    Choices:
+      - Text: I will check out the aquarium. I am excited!
+        Target: Aquarium
+      - Text: I wonder what he will talk to me about.
+        Target: Blathers
+    
+  Tree:
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.10.50%20AM.png?v=1635927093036
+    
+    Caption: >
+      I think I will take a picture here too. The more the merrier. 
+  
+    Choices:
+      - Text: Taking images are tiring. I have to take a break.
+        Target: Relax
+
+  Relax:
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.12.29%20AM.png?v=1635927214092
+    
+    Caption: > 
+      It has been a long day. Breaks are good. Whew am I tired. 
+    
+    Choices: 
+      - Text: I should try to relax. After, I think it would be good to head out. 
+        Target: Home
+       
+  Aquarium:
+  
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5077.JPG?v=1635926001208
+    
+    Caption: >
+      This is the best thing I have ever witnessed. WOW! So many fish. They are so beautiful. 
+      I am so happy about my adventure and coming to the aquarium. The glass windows are huge, the fish
+      are huge, everything is so cool here. 
+      <br/><br/>
+      I really should head out now. I have been up for so long I need to go home or just relax. 
+      
+    Choices: 
+      - Text: I need to just relax.  
+        Target: Relax
+      - Text: It is time to go home. 
+        Target: Home
+  
+  Blathers:
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5076.JPG?v=1635925998586
+    
+    Caption: >
+      This bird talks too much. But I enjoy listening to him. He's pretty funny too.
+      
+    Choices:
+      - Text: I think I should check out the aquarium! 
+        Target: Aquarium
+       
+  Home: 
+    
+    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5079.JPG?v=1635926045755
+    
+    Caption: >
+      This has been such a great trip. I hope to do it again. The nature, the fish, the ocean, 
+      and how relaxing it is. Now THIS is the life!
+      
+    Choices: 
+      - Text: Play again.
+        Target: Airport
+    
+      
+      
+      

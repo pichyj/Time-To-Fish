@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+<!--       <div class="wave"></div> -->
+    <div class="ocean">
+      <div class="wave"></div>
+      <div class="wave"></div>
+      <div class="wave"></div>
+    </div> 
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.13.1/js-yaml.min.js"
+      defer
+    ></script>
+    <script src="core.js" data-world="story.yaml" defer></script>
+    <script src="rules.js" defer></script>
+  </head>
+  <body>
+    
+   
+    <div id="storyContainer">  
+      <div id="titleContainer"></div>
+      <div id="imageContainer"></div>
+      <div id="captionContainer"></div>
+      <div id="choicesContainer"></div>
+      <div id="toolsContainer"></div>
+      <div class="wave1"></div>
+      
+      <video height="277" width="490" controls="controls" preload="none" onclick="this.play()">
+      <source src="https://cdn.glitch.me/89994064-3170-4eb9-b760-92d72489094a%2FAnimal%20Crossing%20-%20New%20Horizons%20-%20Introduction.mp4?v=1638304937201"/>
+      </video>
+
+        <input type="checkbox" id="persistenceCheckbox" /> persist scene across page refresh?
+      </div>
+    
+      <style type="text/css">body { cursor: url('https://cdn.glitch.me/3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fcursor.cur?v=1638409986281'), auto; }</style>
+<!--       <style type="text/css">body { cursor: url('https://cdn.glitch.me/3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fcursor%20(1).cur?v=1638410668409'), auto; }</style>
+ -->
+    
+    </div>
+    <a href = "README.md" > Artist's statement</a>
+</head>
+  </body>
+
+
+
+</html>
