@@ -20,22 +20,20 @@ Because fishing is a big part of the game as you can sell them for bells (money)
 making an interactive game like this enables those who are not familiar with
 the game or just want to see what it is like to play ACNH. The images were also a basis of editing the HTML/CSS in terms of text and color.
 
-![image](https://cdn.glitch.me/89994064-3170-4eb9-b760-92d72489094a%2Facnh%20fishing.jpeg?v=1638384978614)
+![image](89994064-3170-4eb9-b760-92d72489094a%2Facnh%20fishing.jpeg?v=1638384978614)
 
 The video that plays in the beginning is from the first annoucement trailer from the official ACNH Youtube channel.
 I found the video and thought
 it would be a great "intro" to the game for those who just want
 to view it or those who do not know much about the game.
 
-[ACNH video](https://cdn.glitch.me/89994064-3170-4eb9-b760-92d72489094a%2FAnimal%20Crossing%20-%20New%20Horizons%20-%20Introduction.mp4?v=1638304937201)
-
 This image of a wave also helped me decide how to better design the background because I was able to just use that
 image and change the opacity. This helped relate to the theme of fishing better and make it so that
 players are even more willing to play. Because the image was already curved, I decided to keep it just how it is.
-![image](https://cdn.glitch.me/3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fwave%20image.svg?v=1638480206098)
+![image](3041ed69-16f2-4ca4-b819-67f667fbab1b%2Fwave%20image.svg?v=1638480206098)
 
 The Nintendo Switch was also a reference as the game has to be played on the switch.
-![image](https://cdn.glitch.me/89994064-3170-4eb9-b760-92d72489094a%2Fnintendo%20switch%20image.jpeg?v=1638302306525)
+![image](89994064-3170-4eb9-b760-92d72489094a%2Fnintendo%20switch%20image.jpeg?v=1638302306525)
 
 # Authoring Process
 
@@ -63,7 +61,7 @@ actual game.
 
 Diagram of game:
 
-![image](https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_1724.PNG?v=1635997615416)
+![image](20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_1724.PNG?v=1635997615416)
 
 # Technical Foundation
 
