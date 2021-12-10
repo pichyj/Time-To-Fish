@@ -6,7 +6,7 @@ Scenes:
   
   Airport:
   
-    ImageUrl: IMG_5089.JPG
+    ImageUrl: IMG_5089.jpeg
     
     Caption: >
       Hmmm...I maybe check out that video at the bottom. I can see what I'm getting myself into.
@@ -24,7 +24,7 @@ Scenes:
   
   Exit: 
         
-    ImageUrl: IMG_5966.JPG
+    ImageUrl: IMG_5966.jpeg
     
     Caption: > 
         I'm a bit thristy. It would be wise to stay hydrated but that would be a waste of time. Should I just
@@ -40,7 +40,7 @@ Scenes:
         
   Boba:
   
-    ImageUrl: IMG_5092.JPG
+    ImageUrl: IMG_5092.jpeg
     
     Caption: >
       Wow the boba was really good. Now time to fish! I wonder what kind of fishing rod I should get.
@@ -51,7 +51,7 @@ Scenes:
        
   Shop:
   
-    ImageUrl: IMG_5091.JPG
+    ImageUrl: IMG_5091.jpeg
     
     Caption: >
       I think I will buy the black one. It might attract more fish so I can have a bunch!
@@ -66,7 +66,7 @@ Scenes:
       
   DIY:
   
-    ImageUrl: IMG_5965.JPG
+    ImageUrl: IMG_5965.jpeg
     
     Caption: >
       To make a fishing rod all I need are five sticks. So easy. This was a better choice than 
@@ -80,7 +80,7 @@ Scenes:
        
   Ocean:
   
-    ImageUrl: IMG_5088.JPG
+    ImageUrl: IMG_5088.jpeg
     
     Caption: > 
       Okay let's do this. Woah, that looks like a big fish. Please be a special one.
@@ -111,7 +111,7 @@ Scenes:
        
   River Monster:
   
-    ImageUrl: IMG_5082.JPG
+    ImageUrl: IMG_5082.jpeg
     
     Caption: >
       Wow I did it! I caught a huge one. I've never caught one this big before. This is amazing!
@@ -128,7 +128,7 @@ Scenes:
        
   Old Fish: 
     
-    ImageUrl: IMG_5081.JPG
+    ImageUrl: IMG_5081.jpeg
     
     Caption: >
       I mean I guess. 
@@ -141,7 +141,7 @@ Scenes:
        
   Big Fish: 
   
-    ImageUrl: IMG_5087.JPG
+    ImageUrl: IMG_5087.jpeg
       
     Caption: >
       Alright let's do this. Please be a big fish and not a sea bass...I hate sea bass.
@@ -152,7 +152,7 @@ Scenes:
       
   Small Fish:
     
-    ImageUrl: IMG_5085.JPG
+    ImageUrl: IMG_5085.jpeg
     
     Caption: >
       Please please please be a new fish!
@@ -216,7 +216,7 @@ Scenes:
        
   Aquarium:
   
-    ImageUrl: IMG_5077.JPG
+    ImageUrl: IMG_5077.jpeg
     
     Caption: >
       This is the best thing I have ever witnessed. WOW! So many fish. They are so beautiful. 
@@ -233,7 +233,7 @@ Scenes:
   
   Blathers:
     
-    ImageUrl: IMG_5076.JPG
+    ImageUrl: IMG_5076.jpeg
     
     Caption: >
       This bird talks too much. But I enjoy listening to him. He's pretty funny too.
@@ -244,7 +244,7 @@ Scenes:
        
   Home: 
     
-    ImageUrl: IMG_5079.JPG
+    ImageUrl: IMG_5079.jpeg
     
     Caption: >
       This has been such a great trip. I hope to do it again. The nature, the fish, the ocean, 
