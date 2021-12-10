@@ -6,7 +6,7 @@ Scenes:
   
   Airport:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5089.JPG?v=1635926266944
+    ImageUrl: IMG_5089.JPG
     
     Caption: >
       Hmmm...I maybe check out that video at the bottom. I can see what I'm getting myself into.
@@ -24,7 +24,7 @@ Scenes:
   
   Exit: 
         
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5966.JPG?v=1635973341020
+    ImageUrl: IMG_5966.JPG
     
     Caption: > 
         I'm a bit thristy. It would be wise to stay hydrated but that would be a waste of time. Should I just
@@ -40,7 +40,7 @@ Scenes:
         
   Boba:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5092.JPG?v=1635925871422
+    ImageUrl: IMG_5092.JPG
     
     Caption: >
       Wow the boba was really good. Now time to fish! I wonder what kind of fishing rod I should get.
@@ -51,7 +51,7 @@ Scenes:
        
   Shop:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5091.JPG?v=1635926093145
+    ImageUrl: IMG_5091.JPG
     
     Caption: >
       I think I will buy the black one. It might attract more fish so I can have a bunch!
@@ -66,7 +66,7 @@ Scenes:
       
   DIY:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5965.JPG?v=1635973342927
+    ImageUrl: IMG_5965.JPG
     
     Caption: >
       To make a fishing rod all I need are five sticks. So easy. This was a better choice than 
@@ -80,7 +80,7 @@ Scenes:
        
   Ocean:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5088.JPG?v=1635925906210
+    ImageUrl: IMG_5088.JPG
     
     Caption: > 
       Okay let's do this. Woah, that looks like a big fish. Please be a special one.
@@ -96,7 +96,7 @@ Scenes:
   
   River: 
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.09.46%20AM.png?v=1635927012212
+    ImageUrl: Screen%20Shot%202021-11-03%20at%201.09.46%20AM.png
     
     Caption: > 
       I've seen every episode of River Monsters. I hope to catch a wild monster! Unless I 
@@ -111,7 +111,7 @@ Scenes:
        
   River Monster:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5082.JPG?v=1635926064546
+    ImageUrl: IMG_5082.JPG
     
     Caption: >
       Wow I did it! I caught a huge one. I've never caught one this big before. This is amazing!
@@ -128,7 +128,7 @@ Scenes:
        
   Old Fish: 
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5081.JPG?v=1635926126115
+    ImageUrl: IMG_5081.JPG
     
     Caption: >
       I mean I guess. 
@@ -141,7 +141,7 @@ Scenes:
        
   Big Fish: 
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5087.JPG?v=1635925912840
+    ImageUrl: IMG_5087.JPG
       
     Caption: >
       Alright let's do this. Please be a big fish and not a sea bass...I hate sea bass.
@@ -152,7 +152,7 @@ Scenes:
       
   Small Fish:
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5085.JPG?v=1635925931556
+    ImageUrl: IMG_5085.JPG
     
     Caption: >
       Please please please be a new fish!
@@ -163,7 +163,7 @@ Scenes:
     
   Waterfall:
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.12.16%20AM.png?v=1635927183575
+    ImageUrl: Screen%20Shot%202021-11-03%20at%201.12.16%20AM.png
       
     Caption: >
       Wow. What a gorgeous place to take a pic. This is for sure going to go viral. 
@@ -177,7 +177,7 @@ Scenes:
        
   Museum:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.11.59%20AM.png?v=1635927181049
+    ImageUrl: Screen%20Shot%202021-11-03%20at%201.11.59%20AM.png
     
     Caption: > 
       The museum loooks great from the outside and the entrance looks great too. Maybe I should 
@@ -194,7 +194,7 @@ Scenes:
     
   Tree:
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.10.50%20AM.png?v=1635927093036
+    ImageUrl: Screen%20Shot%202021-11-03%20at%201.10.50%20AM.png
     
     Caption: >
       I think I will take a picture here too. The more the merrier. 
@@ -205,7 +205,7 @@ Scenes:
 
   Relax:
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FScreen%20Shot%202021-11-03%20at%201.12.29%20AM.png?v=1635927214092
+    ImageUrl: Screen%20Shot%202021-11-03%20at%201.12.29%20AM.png
     
     Caption: > 
       It has been a long day. Breaks are good. Whew am I tired. 
@@ -216,7 +216,7 @@ Scenes:
        
   Aquarium:
   
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5077.JPG?v=1635926001208
+    ImageUrl: IMG_5077.JPG
     
     Caption: >
       This is the best thing I have ever witnessed. WOW! So many fish. They are so beautiful. 
@@ -233,7 +233,7 @@ Scenes:
   
   Blathers:
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5076.JPG?v=1635925998586
+    ImageUrl: IMG_5076.JPG
     
     Caption: >
       This bird talks too much. But I enjoy listening to him. He's pretty funny too.
@@ -244,7 +244,7 @@ Scenes:
        
   Home: 
     
-    ImageUrl: https://cdn.glitch.me/20063bc3-0987-4207-a361-6d7d8ed86e5b%2FIMG_5079.JPG?v=1635926045755
+    ImageUrl: IMG_5079.JPG
     
     Caption: >
       This has been such a great trip. I hope to do it again. The nature, the fish, the ocean, 
